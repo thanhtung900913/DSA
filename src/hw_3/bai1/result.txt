@@ -1,0 +1,1 @@
+kết quả cuối cùng của stack là "n"
